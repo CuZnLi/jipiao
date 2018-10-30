@@ -1,0 +1,5 @@
+2018-03-15 11:18:02,802 [main] INFO baidu - 启动浏览器
+2018-03-15 11:18:02,825 [main] INFO baidu - 隐式等待10秒
+2018-03-15 11:18:03,890 [main] INFO baidu - 打开百度首页
+2018-03-15 11:18:04,123 [main] INFO baidu - 在搜索框输入selenium
+2018-03-15 11:18:12,802 [main] INFO baidu - 退出
